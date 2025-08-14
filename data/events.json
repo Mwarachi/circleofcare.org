@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Back-to-School Drive supports 60 learners",
+    "date": "2025-01-18",
+    "category": "Education",
+    "excerpt": "Uniforms, stationery, and exam fees provided for 60 students.",
+    "image": "/assets/images/gallery-1.jpg"
+  },
+  {
+    "title": "Community health camp in Ruaka",
+    "date": "2025-03-22",
+    "category": "Health",
+    "excerpt": "200+ people received free screenings and referrals.",
+    "image": "/assets/images/gallery-2.jpg"
+  },
+  {
+    "title": "Monthly food distribution reaches 150 households",
+    "date": "2025-05-10",
+    "category": "Food Support",
+    "excerpt": "Staple food packs distributed across three communities.",
+    "image": "/assets/images/gallery-3.jpg"
+  },
+  {
+    "title": "Youth skills training kick-off",
+    "date": "2025-06-15",
+    "category": "Empowerment",
+    "excerpt": "10-week program on digital literacy and entrepreneurship.",
+    "image": "/assets/images/gallery-4.jpg"
+  },
+  {
+    "title": "Clinic partnership expands access",
+    "date": "2025-07-27",
+    "category": "Health",
+    "excerpt": "Reduced costs for urgent care for registered families.",
+    "image": "/assets/images/gallery-5.jpg"
+  },
+  {
+    "title": "Community clean-up and tree planting",
+    "date": "2025-08-04",
+    "category": "Community",
+    "excerpt": "Volunteers planted 200 trees and cleaned public spaces.",
+    "image": "/assets/images/gallery-6.jpg"
+  }
+]
